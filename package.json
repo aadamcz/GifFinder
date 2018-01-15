@@ -1,7 +1,6 @@
 {
   "name": "zadanie_14_8",
   "version": "1.0.0",
-  "description": "",
   "main": "App.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,6 +10,17 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "babel-polyfill": "^6.26.0",
     "http-server": "^0.10.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadamcz/GifFinder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aadamcz/GifFinder/issues"
+  },
+  "homepage": "https://github.com/aadamcz/GifFinder#readme",
+  "description": ""
 }
